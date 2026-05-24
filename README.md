@@ -2,7 +2,7 @@
 Thank you for visiting my profile!
 
 ### Affiliation
-- [MR Project of Toyama Univ](https://mrprojecttoyama.github.io/homepage)
+- [MR Project of Toyama Univ](https://mrproject-toyama.vercel.app)
 - [Nexiary.com](https://nexiary.com)
 
 ### Contact
