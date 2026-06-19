@@ -3,7 +3,7 @@ Thank you for visiting my profile!
 
 ### Affiliation
 - [MR Project of Toyama Univ](https://mrproject-toyama.vercel.app)
-- [Nexiary.com](https://nexiary.com)
+- [hokke414.com](https://hokke414.com)
 
 ### Contact
 - [X(Twitter)](https://x.com/hokke414)
